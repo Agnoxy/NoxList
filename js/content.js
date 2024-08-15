@@ -111,7 +111,6 @@ export async function fetchLeaderboard() {
     const res = Object.entries(scoreMap).map(([user, scores]) => {
         const { verified, completed, progressed } = scores;
         const total = [verified, completed, progressed]
-            const scale = 0;
             .flat()
             .reduce((prev, cur) => prev + cur.score, 0);
 
