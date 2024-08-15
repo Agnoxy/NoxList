@@ -1,3 +1,5 @@
+const scale = 0;
+
 import { round, score } from './score.js';
 
 /**
