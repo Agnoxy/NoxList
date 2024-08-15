@@ -1,0 +1,18 @@
+{
+    "id": 26133601,
+    "name": "Athanatos",
+    "author": "Exenity",
+    "creators": ["Herzilo", "Gaero"],
+    "verifier": "Xavier",
+    "completion": "https://www.youtube.com/watch?v=FgN-lPpMhD4",
+    "percentToQualify": 100,
+    "password": "Idk",
+    "records": [
+        {
+            "user": "LePopsi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
