@@ -1,3 +1,5 @@
+const scale = 0;
+
 import { fetchLeaderboard } from '../content.js';
 import { localize } from '../util.js';
 
