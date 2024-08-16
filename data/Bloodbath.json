@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Based",
     "records": [
+        {
+            "user": "OK1324",
+            "link": "https://youtu.be/Vwy43Z1pUKY",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
