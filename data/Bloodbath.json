@@ -19,6 +19,12 @@
             "link": "https://youtu.be/H_son0DH4CA",
             "percent": 100,
             "hz": 80
+        },
+        {
+            "user": "megacast",
+            "link": "https://www.youtube.com/watch?v=RNBTrPNbFNg",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
