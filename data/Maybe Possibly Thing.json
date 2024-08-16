@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Big boob",
     "records": [
+        {
+            "user": "lukrasz",
+            "link": "https://www.youtube.com/watch?v=m5YCvEre8Us",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
