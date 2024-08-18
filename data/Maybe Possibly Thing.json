@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=m5YCvEre8Us",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Marko",
+            "link": "https://www.youtube.com/watch?v=xr4xCdm-F0g",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
