@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=RNBTrPNbFNg",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Marko",
+            "link": "https://youtu.be/qAn9jAsyhjs?si=qP10rlSk9aRitraC",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
