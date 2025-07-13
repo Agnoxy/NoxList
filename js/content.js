@@ -98,7 +98,7 @@ export async function fetchLeaderboard() {
 
         return {
             user,
-            total: round(total),
+            total: round(total / 1000),
             ...scores,
         };
     });
