@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "big love",
     "records": [
+        {
+            "user": "majin",
+            "link": "https://www.youtube.com/watch?v=zWAllD7R2FU",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
