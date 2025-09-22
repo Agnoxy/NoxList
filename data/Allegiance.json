@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Big bahoonas",
     "records": [
+        {
+            "user": "Marko",
+            "link": "https://youtu.be/DffaOWRlteI?si=s_s117uj1fMO99aT",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
