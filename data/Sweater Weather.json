@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "big love",
     "records": [
+        {
+            "user": "Marko",
+            "link": "https://youtu.be/aFymWc9A7eA?si=m7rgmPKhuJJAeLsX",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
