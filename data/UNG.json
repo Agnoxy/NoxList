@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Sigma boy",
     "records": [
+        {
+            "user": "Marko",
+            "link": "https://youtu.be/R_VAk1XjUjE?si=Bk5t8tEzCoEPFLfI",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
