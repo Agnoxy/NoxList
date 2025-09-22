@@ -31,6 +31,12 @@
             "link": "hhttps://www.youtube.com/watch?v=lUALYhYsD54",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "dqniel",
+            "link": "https://www.youtube.com/watch?v=6fQPX71HQFk",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
