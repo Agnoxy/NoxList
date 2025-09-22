@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "hyper boobers",
     "records": [
+        {
+            "user": "Marko",
+            "link": "https://youtu.be/A52N76RyeCY?si=UiuR2OVPXfWbud47",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
