@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Big trollss",
     "records": [
+        {
+            "user": "Jamixiy",
+            "link": "https://www.youtube.com/watch?v=_Llo1pGDQp0",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
