@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "lolcat",
     "records": [
+        {
+            "user": "Marko",
+            "link": "https://youtu.be/-YX4apaI_-U?si=9AJVUyeoSezptozq",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
